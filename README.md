@@ -193,7 +193,7 @@ with open("saludo.txt", "w") as f:
 
 ### **Ejercicio 7:**
 Crea un programa que guarde en un archivo los números del 1 al 10.
-
+**Resuelto** [ Ejercicio 7](./ejercicios/ejercicio_7.py)
 ---
 
 ## **10. Proyecto Final: Calculadora Simple**
