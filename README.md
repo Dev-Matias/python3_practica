@@ -83,9 +83,8 @@ print(a == b)  # False
 
 ### **Ejercicio 2:**
 Calcula el área de un círculo (fórmula: `π * radio²`). Usa `radio = 5` y `π = 3.1416`.
-Resuelto [ Ejercicio 2](./ejercicios/ejercicio_2.py)
 ---
-
+**Resuelto** [ Ejercicio 2](./ejercicios/ejercicio_2.py)
 ## **5. Condicionales (`if`, `elif`, `else`)**
 ### **Ejemplo:**
 ```python
@@ -103,9 +102,8 @@ Mayor de edad
 
 ### **Ejercicio 3:**
 Pide al usuario un número y determina si es **positivo, negativo o cero**.
-Resuelto [ Ejercicio 3](./ejercicios/ejercicio_3.py)
 ---
-
+**Resuelto** [ Ejercicio 3](./ejercicios/ejercicio_3.py)
 ## **6. Bucles (`for`, `while`)**
 ### **Ejemplo con `for`:**
 ```python
@@ -137,9 +135,8 @@ Contador: 2
 
 ### **Ejercicio 4:**
 Imprime los números **pares** del 1 al 10 usando un bucle.
-Resuelto [ Ejercicio 4](./ejercicios/ejercicio_4.py)
 ---
-
+**Resuelto** [ Ejercicio 4](./ejercicios/ejercicio_4.py)
 ## **7. Listas y Diccionarios**
 ### **Listas (`list`):**
 ```python
