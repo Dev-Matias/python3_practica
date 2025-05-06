@@ -156,7 +156,7 @@ print(persona["nombre"])  # Carlos
 
 ### **Ejercicio 5:**
 Crea una lista de números y calcula su suma.
-
+**Resuelto** [ Ejercicio 5](./ejercicios/ejercicio_5.py)
 ---
 
 ## **8. Funciones (`def`)**
