@@ -201,3 +201,4 @@ Combina todo lo aprendido para hacer una calculadora que:
 1. Pida dos números al usuario.
 2. Permita elegir entre **sumar, restar, multiplicar o dividir**.
 3. Muestre el resultado.
+**Resuelto** [ Proyecto Final](./ejercicios/calculadora.py)
