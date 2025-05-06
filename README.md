@@ -174,7 +174,7 @@ print(saludar("Luisa"))
 
 ### **Ejercicio 6:**
 Crea una función que calcule el factorial de un número (ej: `5! = 120`).
-
+**Resuelto** [ Ejercicio 6](./ejercicios/ejercicio_6.py)
 ---
 
 ## **9. Manejo de Archivos**
